@@ -5,23 +5,23 @@ import Checkbox from "../components/ui/Checkbox";
 
 export default function GetStarted() {
   const servicesItems = [
-    "Mobile development",
-    "UI/UX Design",
-    "web development",
-    "SEO",
+    "Property Sale",
+    "Property Rent",
+    "Property Swap",
+    "Off-plan Projects",
   ];
 
   return (
     <>
       <Head>
-        <title>Contact us - Blinder</title>
+        <title>Contact us - Aqary Investment</title>
       </Head>
       <div className='pt-28 pb-12'>
         <div className='custom-screen text-gray-600'>
           <div className='max-w-lg mx-auto gap-12 justify-between lg:flex lg:max-w-none'>
             <div className='max-w-lg sm:text-center lg:text-left'>
               <h1 className='text-gray-800 text-3xl font-semibold sm:text-4xl'>
-                Talk to a Blinder expert
+                Talk to a Aqary Investment expert
               </h1>
               <p className='mt-3'>
                 We are here to help. Get in touch with sales our press team and
