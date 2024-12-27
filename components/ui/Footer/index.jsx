@@ -34,7 +34,7 @@ const Footer = () => {
                             <p>Reem Island, Abu Dhabi, UAE</p>
                             <p>Phone: +971506686446</p>
                             <p>
-                            Business Address
+                                Business Address: 
                             أبوظبي, أبوظبي, مبنى,
                             </p>
                         </div>

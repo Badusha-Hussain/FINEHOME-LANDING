@@ -51,7 +51,11 @@ const PrivacyPolicy = () => {
                             Aqary Real Estate Investment and Development L.L.C<br />
                             Office 3707, Addax Tower<br />
                             Reem Island, Abu Dhabi, UAE<br />
-                            Phone: +971506686446
+                            Phone: +971506686446 <br />
+                            <p>
+                            Business Address: 
+                            أبوظبي, أبوظبي, مبنى,
+                            </p>
                         </p>
                     </section>
 
