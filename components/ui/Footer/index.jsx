@@ -1,3 +1,4 @@
+import Link from 'next/link'
 const Footer = () => {
     const handleNavigation = (path) => (e) => {
         e.preventDefault();
@@ -38,20 +39,20 @@ const Footer = () => {
                     <div>
                         <h3 className="text-lg font-semibold text-gray-900">Legal</h3>
                         <div className="mt-4 space-y-2">
-                            <a 
+                            <Link 
                                 href="/privacy" 
                                 onClick={handleNavigation('/privacy')}
                                 className="block text-sm text-gray-600 hover:text-gray-900"
                             >
                                 Privacy Policy
-                            </a>
-                            <a 
+                            </Link>
+                            <Link 
                                 href="/terms" 
                                 onClick={handleNavigation('/terms')}
                                 className="block text-sm text-gray-600 hover:text-gray-900"
                             >
                                 Terms & Conditions
-                            </a>
+                            </Link>
                         </div>
                     </div>
 
