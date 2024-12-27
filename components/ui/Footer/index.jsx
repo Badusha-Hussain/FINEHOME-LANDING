@@ -33,6 +33,10 @@ const Footer = () => {
                             <p>Office 3707, Addax Tower</p>
                             <p>Reem Island, Abu Dhabi, UAE</p>
                             <p>Phone: +971506686446</p>
+                            <p>
+                            Business Address
+                            أبوظبي, أبوظبي, مبنى,
+                            </p>
                         </div>
                     </div>
                     
