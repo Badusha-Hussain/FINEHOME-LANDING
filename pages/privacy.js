@@ -48,19 +48,22 @@ const PrivacyPolicy = () => {
                             If you have questions about our Privacy Policy, please contact us at:
                         </p>
                         <p>
-                            Aqary Real Estate Investment and Development L.L.C<br />
-                            Office 3707, Addax Tower<br />
+                                FINE HOME REAL ESTATE LLC<br />
+                            Office 3706, Addax Tower<br />
                             Reem Island, Abu Dhabi, UAE<br />
-                            Phone: +971506686446 <br />
+                            Phone: ++971562993923 <br />
                             <p>
-                            Business Address: 
-                            أبوظبي, أبوظبي, مبنى,
-                            </p>
+    Business Address: <br />
+    أبوظبي, أبوظبي<br />
+    جزيرة الريم طموح, 3 مبنى<br />
+    ق: 12C_1C
+</p>
+
                         </p>
                     </section>
 
                     <p className="text-sm">
-                        Last updated: December 2024
+                        Last updated: Jan 2025
                     </p>
                 </div>
             </div>

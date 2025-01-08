@@ -3,10 +3,10 @@ import Link from "next/link";
 const Brand = () => (
     <Link href="/">
         <img
-            src="/invest_logo.png"
+            src="/logos/fine_home_logo.png"
             width={50}
             height={50}
-            alt="Aqary logo"
+            alt="finehome logo"
         />
     </Link>
 )

@@ -4,15 +4,14 @@ import sendgrid from '../../../public/logos/sendgrid.svg'
 import layers from '../../../public/logos/layers.svg'
 import adobe from '../../../public/logos/adobe.svg'
 
-
-import finehome_logo from '../../../public/logos/finehome_logo.png'
+import finehome from '../../../public/logos/finehome_logo.png'
 import logo from '../../../public/logos/logo.png'
 import bayut from '../../../public/logos/bayut.png'
 import dubizzle from '../../../public/logos/dubizzle.png'
 
 const logos = [
     {
-        src: finehome_logo,
+        src: finehome,
         alt: "finehome"
     },
     {
